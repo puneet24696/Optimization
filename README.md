@@ -1,2 +1,2 @@
 # Optimization
-Optimization Algorithms
+Optimization Algorithms - Genetic algorithm
